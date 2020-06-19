@@ -1,4 +1,4 @@
-# wavedrawer-flutter
+# wavedrawer
 Wave Drawer - Flutter Tutorials
 
 Steps to Integrate : 
